@@ -28,4 +28,6 @@ dep:
 clean:
 	$(RM) *.o
 	$(RM) geometry_test
-	$(RM) *~
+	$(RM) *0~
+test:
+	./geometry_test
