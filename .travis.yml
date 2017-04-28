@@ -1,4 +1,2 @@
-language: c
-script: test
-compiler: clang 
+ 
 
